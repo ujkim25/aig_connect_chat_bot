@@ -1,0 +1,38 @@
+How to log into AIG Connect:
+Agents can access AIG Connect by visiting the intranet login page.
+Enter your agent ID and password.
+If you've forgotten your password, use the "Forgot password" link to reset it.
+
+How to submit an application:
+Go to the “New Application” section in the left-hand menu.
+Choose the product, fill out the customer details, and click submit.
+Ensure all required documents are uploaded.
+
+How to check application status:
+Click on “Application Tracking” in the top menu.
+You can search by application ID, customer name, or date submitted.
+Status will show as Pending, Approved, or Rejected.
+
+How to contact customer support:
+Use the internal messaging system or call the support center at extension 1234.
+Support is available Monday to Friday, 9 AM to 6 PM.
+
+How to reset your password:
+Click the “Forgot password” link on the login page.
+Follow the instructions in the email to reset your password.
+If you encounter issues, contact IT support.
+
+How to update agent profile:
+Go to “My Profile” section.
+Click “Edit” and update your contact information or photo.
+Changes will be reviewed and applied within 24 hours.
+
+How to upload documents:
+During the application process, click the “Upload Documents” button.
+Supported formats include PDF, JPG, PNG.
+Make sure documents are clearly readable and under 10MB in size.
+
+How to view commission reports:
+Go to the “Reports” tab and select “Commission”.
+Reports are updated monthly.
+You can download reports in Excel or PDF format.
