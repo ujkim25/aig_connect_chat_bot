@@ -81,7 +81,7 @@ Answer:
 def call_llm(prompt):
     url = "http://192.168.0.23:11434/api/generate"
     payload = {
-        "model": "mistral",
+        "model": "tinyllama",
         "prompt": prompt,
         "stream": False
     }

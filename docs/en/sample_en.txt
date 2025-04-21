@@ -1,0 +1,7 @@
+How to log into AIG Connect:
+Agents can log into AIG Connect by accessing the portal and entering their ID and password.
+If you forgot your password, use the "Reset Password" feature.
+
+How to submit an application:
+Click on "New Application" from the left menu.
+Select a product, fill out the customer information, and click submit.
